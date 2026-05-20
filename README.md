@@ -46,8 +46,12 @@ All UI control elements should distribute evenly across the screen alignment gri
 Below is the screenshot capturing the exact state of the layout failure.
 
 <p align="center">
-  <img src="screenshots/messenger-ui-overlapping-vivo-y50.jpg" width="350" alt="Messenger UI Overlapping Bug Screen"/>
-  <img src="screenshots/messenger-ui-overlapping-vivo-y50.jpg" width="350" alt="Messenger UI Overlapping Bug Screen"/>
+  <img src="screenshots/audio call.png" width="350" alt="Messenger Audio Call Stable UI"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/video call.png" width="350" alt="Messenger Video Call Buggy UI"/>
+</p>
+<p align="center">
+  <em>Figure: Stable UI alignment during Audio Call (Left) vs. Broken & Overlapped UI during Video Call (Right) on Vivo Y50.</em>
 </p>
 
 ---
